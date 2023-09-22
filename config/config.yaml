@@ -1,0 +1,3 @@
+data_path: "data/health_insurance.csv"
+target: "med_exp"
+alpha: 0.05 #tolerance level por statistical tests
